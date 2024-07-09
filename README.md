@@ -1,3 +1,8 @@
+Quick start setup local argo with minikube
+-
+https://argo-workflows.readthedocs.io/en/latest/quick-start/
+
+
 Build the image using dockerfile
 
 ``
