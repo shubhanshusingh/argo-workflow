@@ -12,7 +12,7 @@ docker build -t argo-workflow .
 Push the image to minikube
 
 ``
-minikube image load <image name>
+minikube image load argo-workflow
 ``
 
 submit argo workflow in argo namespace
